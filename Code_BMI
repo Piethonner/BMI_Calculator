@@ -1,4 +1,4 @@
-## Hope you're satisfied with the outcome ##
+# Hope you're satisfied with the outcome
 
 height = float(input("Enter your height in m: "))
 weight = float(input("Enter your weight in kg: "))
